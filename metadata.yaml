@@ -1,0 +1,28 @@
+_repo: Welsh-Rarebit-Tales_60294
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Owen, Robert Emmett
+    alias: Owen, R. Emmett (Robert Emmett)
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '5821'
+    url: http://www.gutenberg.org/2009/agents/5821
+creator:
+  author:
+    agent_name: Cummins, Harle Oren
+    gutenberg_agent_id: '50883'
+    url: http://www.gutenberg.org/2009/agents/50883
+description: ''
+gutenberg_issued: '2019-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60294'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Welsh Rarebit Tales
+url: http://www.gutenberg.org/ebooks/60294
